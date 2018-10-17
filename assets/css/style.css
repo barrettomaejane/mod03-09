@@ -76,12 +76,12 @@ ul > li > a {
 }
 .about {
 	background-color: #f59999;
-	height:780px;
+	height:100%;
 
 }
 .services {
 	background-color: #FCB5B5;
-	height:500px;
+	height:100%;
 }
 
 .column {
@@ -95,12 +95,12 @@ ul > li > a {
 }
 .projects {
 	background-color: #f59999;
-	height:100vh;
+	height:100%;
 }
 
 .gallery {
 	background-color:#FCB5B5;
-	height:780px;
+	height:100%;
 }
 
 .footer {
@@ -111,6 +111,11 @@ ul > li > a {
 
 
 	
+}
+
+.gal {
+	width:90%;
+	margin: 0 auto;
 }
 
 #ab {
@@ -204,11 +209,11 @@ img[alt*="social"]{
 
 img[alt*="pic"] {
 	
-	width:320px;
+	width:31%;
 	height:200px;
 	display:block;
 	float:left;
-	margin:20px 6px 0px 6px;
+	margin:20px 1% 0px 1%;
 
 }
 
